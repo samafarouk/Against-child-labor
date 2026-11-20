@@ -58,15 +58,15 @@ This project brought together research, advocacy, and communication through seve
 
 ### Awareness Brochure
 
-![Beyond the Numbers – Child Labour Position](assets/photo.png)
+![Beyond the Numbers – Child Labour Position](Assets/photo.png)
 
 ### Website Preview
 
-![Project Website Preview](assets/website_screenshot.png)
+![Project Website Preview](Assets/website-screenshot.png)
 
 ## Explore the Project
 
-- **Interactive Website:** [[Insert website URL](https://samafarouk.github.io/Against-child-labor/)]
+- **Interactive Website:** [[Click here!](https://samafarouk.github.io/Against-child-labor/)]
 
 ---
 
